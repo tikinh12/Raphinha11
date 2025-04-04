@@ -11,7 +11,7 @@
     /* Cor de fundo para modo alto contraste */
     --alto-contraste-texto: #ffffff;
     /* Cor de texto para modo alto contraste */
-    --alto-contraste-link: #00ff73;
+    --alto-contraste-link: #000000;
     /* Cor de links para modo alto contraste */
 }
 
@@ -161,7 +161,7 @@ h2 {
 
 /* Efeito hover para o botão */
 #form-imc button:hover {
-    background-color: #e6711f;
+    background-color: #5ee61f;
     /* Laranja mais escuro ao passar o mouse */
 }
 
